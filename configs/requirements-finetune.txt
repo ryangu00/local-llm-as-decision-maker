@@ -1,0 +1,5 @@
+# Recorded versions; other dependency versions were not recorded.
+laya==0.3.20
+torch==2.14
+safetensors
+transformers

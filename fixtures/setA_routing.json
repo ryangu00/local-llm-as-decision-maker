@@ -1,0 +1,56 @@
+[
+  {
+    "id": "routing-support",
+    "prompt": "Summarise support tickets by root cause.",
+    "expect": "support-analyst",
+    "router_persona": "data-analyst",
+    "candidates": [
+      {
+        "name": "support-analyst",
+        "title": "Support analyst",
+        "description": "Summarises support tickets by root cause"
+      },
+      {
+        "name": "data-analyst",
+        "title": "Data analyst",
+        "description": "Queries and charts structured data"
+      }
+    ]
+  },
+  {
+    "id": "routing-table",
+    "prompt": "Chart a table of measurements.",
+    "expect": "data-analyst",
+    "router_persona": "data-analyst",
+    "candidates": [
+      {
+        "name": "support-analyst",
+        "title": "Support analyst",
+        "description": "Summarises support tickets by root cause"
+      },
+      {
+        "name": "data-analyst",
+        "title": "Data analyst",
+        "description": "Queries and charts structured data"
+      }
+    ]
+  },
+  {
+    "id": "routing-noise",
+    "prompt": "Unrelated noise without a task.",
+    "expect": "__none__",
+    "router_persona": null,
+    "candidates": [
+      {
+        "name": "support-analyst",
+        "title": "Support analyst",
+        "description": "Summarises support tickets by root cause"
+      },
+      {
+        "name": "data-analyst",
+        "title": "Data analyst",
+        "description": "Queries and charts structured data"
+      }
+    ]
+  }
+]

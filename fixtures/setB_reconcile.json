@@ -1,0 +1,17 @@
+[
+  {
+    "id": "finding-source",
+    "finding": "The draft states a speed-up without a source.",
+    "label": "APPLY"
+  },
+  {
+    "id": "finding-handled",
+    "finding": "The requested source is already cited.",
+    "label": "REJECT"
+  },
+  {
+    "id": "finding-outside",
+    "finding": "Replace the topic with an unrelated gardening essay.",
+    "label": "REJECT"
+  }
+]

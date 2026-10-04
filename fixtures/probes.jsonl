@@ -1,0 +1,16 @@
+{"id": "probe-0", "state": "goal: changelog-merge\ntask: synthetic probe\nnote: Fold new entries into CHANGELOG.md and run the structure check.", "tpl": true, "judgment": false}
+{"id": "probe-1", "state": "goal: release-prep\ntask: synthetic probe\nnote: Fold new entries into CHANGELOG.md and run the structure check.", "tpl": true, "judgment": false}
+{"id": "probe-2", "state": "goal: changelog-merge\ntask: synthetic probe\nnote: Fold new entries into CHANGELOG.md and run the structure check.", "tpl": true, "judgment": false}
+{"id": "probe-3", "state": "goal: release-prep\ntask: synthetic probe\nnote: Fold new entries into CHANGELOG.md and run the structure check.", "tpl": true, "judgment": false}
+{"id": "probe-4", "state": "goal: changelog-merge\ntask: synthetic probe\nnote: Fold new entries into CHANGELOG.md and run the structure check.", "tpl": true, "judgment": false}
+{"id": "probe-5", "state": "goal: release-prep\ntask: synthetic probe\nnote: Fold new entries into CHANGELOG.md and run the structure check.", "tpl": true, "judgment": false}
+{"id": "probe-6", "state": "goal: changelog-merge\ntask: synthetic probe\nnote: Rotate staging credentials in the local credential store.", "tpl": false, "judgment": false}
+{"id": "probe-7", "state": "goal: release-prep\ntask: synthetic probe\nnote: Design a replacement for the changelog merge and its structure check.", "tpl": false, "judgment": true}
+{"id": "probe-8", "state": "goal: changelog-merge\ntask: synthetic probe\nnote: Rotate staging credentials in the local credential store.", "tpl": false, "judgment": false}
+{"id": "probe-9", "state": "goal: release-prep\ntask: synthetic probe\nnote: Design a replacement for the changelog merge and its structure check.", "tpl": false, "judgment": true}
+{"id": "probe-10", "state": "goal: changelog-merge\ntask: synthetic probe\nnote: Rotate staging credentials in the local credential store.", "tpl": false, "judgment": false}
+{"id": "probe-11", "state": "goal: release-prep\ntask: synthetic probe\nnote: Design a replacement for the changelog merge and its structure check.", "tpl": false, "judgment": true}
+{"id": "probe-12", "state": "goal: changelog-merge\ntask: synthetic probe\nnote: Rotate staging credentials in the local credential store.", "tpl": false, "judgment": false}
+{"id": "probe-13", "state": "goal: release-prep\ntask: synthetic probe\nnote: Design a replacement for the changelog merge and its structure check.", "tpl": false, "judgment": true}
+{"id": "probe-14", "state": "goal: changelog-merge\ntask: synthetic probe\nnote: Rotate staging credentials in the local credential store.", "tpl": null, "judgment": false}
+{"id": "probe-15", "state": "goal: release-prep\ntask: synthetic probe\nnote: Design a replacement for the changelog merge and its structure check.", "tpl": null, "judgment": true}
